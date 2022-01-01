@@ -1,6 +1,18 @@
 # Dupdup
 Dupdup is a file de-duplicator written in C#.
 
+## Usage
+
+### Find and preserve duplicates
+```
+dupdup -target "C:\DIRECTORY" -searchpattern "*.jpg"
+```
+
+### Find and delete duplicates
+```
+dupdup -target "C:\DIRECTORY" -searchpattern "*" -delete
+```
+
 ## Compiling
 You can run `dotnet publish Dupdup.csproj` or use the `buildrelease.ps1` script in the repository.
 
