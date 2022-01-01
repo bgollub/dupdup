@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dupdup", "Dupdup\Dupdup.csproj", "{3DA2A168-97A5-46E6-8E56-05555B1AF5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DupdupTests", "DupdupTests\DupdupTests.csproj", "{119D15CC-866C-4DA2-8502-C4ABF80CD2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA2A168-97A5-46E6-8E56-05555B1AF5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA2A168-97A5-46E6-8E56-05555B1AF5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA2A168-97A5-46E6-8E56-05555B1AF5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA2A168-97A5-46E6-8E56-05555B1AF5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119D15CC-866C-4DA2-8502-C4ABF80CD2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119D15CC-866C-4DA2-8502-C4ABF80CD2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119D15CC-866C-4DA2-8502-C4ABF80CD2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119D15CC-866C-4DA2-8502-C4ABF80CD2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA08B63A-3502-4066-AAFF-4808A5183025}
+	EndGlobalSection
+EndGlobal
