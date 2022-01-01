@@ -14,7 +14,7 @@ dupdup -target "C:\DIRECTORY" -searchpattern "*" -delete
 ```
 
 ## Compiling
-You can run `dotnet publish Dupdup.csproj` or use the `buildrelease.ps1` script in the repository.
+Run `dotnet publish Dupdup.csproj` or use the `buildrelease.ps1` script in the repository.
 
 `buildrelease.ps1` builds self-contained release executables for the following runtimes:
 - win-x64
